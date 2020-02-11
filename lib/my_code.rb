@@ -55,6 +55,7 @@ def reduce_to_all_true(source_array)
   return true  
 end
 
+<<<<<<< HEAD
 def reduce_to_any_true(source_array)
     i = 0 
   while i < source_array.length do 
@@ -65,3 +66,5 @@ def reduce_to_any_true(source_array)
   end   
   return false 
 end 
+=======
+>>>>>>> ecb5709b2efe77914a9a89ba83f8e722daa7de7d
